@@ -7,5 +7,8 @@ All the windows config files I need on a fresh windows install
 ### /terminal/
 ```profiles.json``` for Windows Terminal
 
+### /vscode/
+```settings.json``` for VS Code editor
+
 ### /autohotkey/ 
 ```spotify_play_pause.ahk``` I link this to the middle-mouse button on my mouse
