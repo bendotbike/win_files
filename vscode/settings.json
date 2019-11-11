@@ -1,0 +1,13 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "menlo",
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "menlo",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.colorTheme": "SynthWave '84",
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.iconTheme": "vs-nomo-dark",
+    "php.validate.executablePath": "C:\\users\\btov1\\desktop\\php\\php.exe",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "files.autoSave": "off"
+}
