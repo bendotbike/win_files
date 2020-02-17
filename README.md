@@ -13,3 +13,6 @@ install: ``` git clone https://github.com/bendotbike/win_files c:/%user%/downloa
 ### /autohotkey/ 
 - ```spotify_play_pause.ahk``` I link this to the middle-mouse button on my mouse
 - ```open_explorer.ahk``` Opens Windows Explorer. I link this to another extra mouse button
+
+### /batch/
+- "httpserver.bat" Launches Python's simple http server in the current directory (```-b``` opens a browser window)
