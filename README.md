@@ -15,4 +15,4 @@ install: ``` git clone https://github.com/bendotbike/win_files c:/%user%/downloa
 - ```open_explorer.ahk``` Opens Windows Explorer. I link this to another extra mouse button
 
 ### /batch/
-- "httpserver.bat" Launches Python's simple http server in the current directory (```-b``` opens a browser window)
+- ```httpserver.bat``` Launches Python's simple http server in the current directory (```-b``` opens a browser window)
